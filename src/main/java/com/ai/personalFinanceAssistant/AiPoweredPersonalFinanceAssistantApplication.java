@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AiPoweredPersonalFinanceAssistantApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AiPoweredPersonalFinanceAssistantApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AiPoweredPersonalFinanceAssistantApplication.class, args);
+    }
 
 }
